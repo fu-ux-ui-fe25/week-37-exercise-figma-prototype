@@ -56,33 +56,7 @@ Skissa med papper och penna upp en lo-fi sketch av er drömwebbsida. Ni har 10 m
 
 ### Steg 2
 
-Byt sketch med en kompis och skapa en Figma-prototyp av er kompis sketch. Börja med de övergripande dragen/layouten, för att sedan gå in mer på detaljer.
-
-## Övning 5 - Interaktivitet
-
-### Steg 1
-Kopiera över ditt kontaktformulär från **Övning 2** till ett nytt projekt. Välj antingen desktop eller mobilvarianten.
-
-### Steg 2
-Kopiera din frame så att du har 3 likadana varianter framför dig. 
-* **Frame** 1 låter du vara som den är.
-* I **Frame 2** fyller du i kontaktformuläret.
-* I **Frame 3** tar du bort kontaktformuläret och ersätter det istället med en text som verifierar att formuläret skickats.
-
-### Steg 3
-* När användaren klickar på valfritt inputfält skall formuläret automatiskt fyllas i med data.
-* När användaren sedan klickar på "Skicka" så skall **Frame 3** visas.
-
-## Övning 6 - Interaktivitet
-
-### Steg 1
-Fundera över andra flöden som sker på webben, exempelvis från det att man anländer till en webbshop tills dess att man får en bekräftelse på att en order lagts, eller från det att man anländer till Instagram tills dess att man laddat upp sitt nya inlägg.
-
-### Steg 2
-Börja skissa på de wireframes man behöver för att genomföra ditt valda flöde. Antingen med papper och penna (att föredra), eller direkt i Figma. Behöver inte vara detaljerat.
-
-### Steg 3
-Skapa interaktivitet i ditt flöde genom att koppla ihop alla dina wireframes.
+Byt sketch med en kompis (om ni vill) och skapa en Figma-prototyp av er kompis sketch. Börja med de övergripande dragen/layouten, för att sedan gå in mer på detaljer.
 
 
 
